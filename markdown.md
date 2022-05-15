@@ -1,10 +1,3 @@
-Yet another markdown cheat sheet.
-This one separates the basic markdown (supported everywhere)
-from the advanced markdown (which is supported to varying levels by different programs).
-I'm not including markdown features that are site-specific with the goal that this
-page only covers what you'd expect to find everywhere (almost).
-
-
 # Basic markdown:
 
 
